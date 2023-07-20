@@ -1,0 +1,2 @@
+# Forecast-ABtest-Regression--GradeCompletedLesson
+ This data was collected as part of an experiment to understand factors that contribute to learner performance on a quiz.  Data has three columns. 'score': student score on a quic, 'completed':the number of content items on the online platform that the learner has completed prior to quiz, 'lesson': indicates which lesson the learner took directly before the quiz ('lesson A' | lesson 'B).
